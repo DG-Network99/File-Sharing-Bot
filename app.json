@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1234567"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -35,11 +35,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files and other users can access them from special links."
+      "value": "Hello {first}\n\nI can store private files and users can access them from special links."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to get Files/Links.\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>You need to join my Channel to get Files/Links.\n\n Please join Channel and click 'Try Again' button</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
